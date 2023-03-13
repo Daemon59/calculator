@@ -1,3 +1,3 @@
 # calculator
 
-It's a basic console javascript calculator with if/else statements.
+It's a simple console javascript calculator with if/else statements.
